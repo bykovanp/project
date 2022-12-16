@@ -1,1 +1,1 @@
-Привет# project
+# project
